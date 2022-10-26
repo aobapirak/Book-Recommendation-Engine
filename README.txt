@@ -32,7 +32,7 @@ User Manual
 
  2) Menu: After running, the system will give you three options to select: 
 	
-		[1] Create an Account
+	[1] Create an Account
         [2] Log in
         [3] Exit Program
     
@@ -47,11 +47,11 @@ User Manual
  3) Search: Afterward, the user will be redirected to the search menu. The menu will display 5 attributes which you can select to use for searching. 
 	
 	Select the desired attribute to search
-            [1] Search by Name
-            [2] Search by Author
-            [3] Search by Genre
-            [4] Search by Keyword
-			[5] Checkout 
+            	[1] Search by Name
+            	[2] Search by Author
+            	[3] Search by Genre
+            	[4] Search by Keyword
+		[5] Checkout 
     
 	Enter [DONE to exit]: 
 
@@ -113,7 +113,7 @@ User Manual
 
 	It will look something like this:
 
-					[All books purchased]
+			[All books purchased]
 	_______________________________________________________
 
         [#No.1] Book: Harry Potter and the Philosopher's Stone
