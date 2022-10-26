@@ -1,0 +1,170 @@
+bookID:00001~title:Harry Potter and the Philosopher's Stone~author:J. K. Rowling~genre:Fantasy~length in pages:223~keywords:magic,wizard,harry potter
+bookID:00002~title:Harry Potter and the Chamber of Secrets~author:J. K. Rowling~genre:Fantasy~length in pages:272~keywords:magic,wizard,harry potter
+bookID:00003~title:Harry Potter and the Prisoner of Azkaban~author:J. K. Rowling~genre:Fantasy~length in pages:241~keywords:magic,wizard,harry potter
+bookID:00004~title:Harry Potter and the Goblet of Fire~author:J. K. Rowling~genre:Fantasy~length in pages:636~keywords:magic,wizard,harry potter
+bookID:00005~title:Harry Potter and the Order of the Phoenix~author:J. K. Rowling~genre:Fantasy~length in pages:766~keywords:magic,wizard,harry potter
+bookID:00006~title:Fantastic Beasts and Where to Find Them~author:J. K. Rowling~genre:Fantasy~length in pages:236~keywords:magic,wizard,fantastic beasts
+bookID:00007~title:Percy Jackson & the Olympians: The Lightning Thief~author:Rick Riordan~genre:Fantasy~length in pages:301~keywords:god,legend,percy jackson
+bookID:00008~title:Percy Jackson & the Olympians:The Sea of Monsters~author:Rick Riordan~genre:Novel~length in pages:267~keywords:god,legend,percy jackson
+bookID:00009~title:Percy Jackson & the Olympians:The Titan's Curse~author:Rick Riordan~genre:Fantasy~length in pages:320~keywords:god,legend,percy jackson
+bookID:00010~title:Percy Jackson & the Olympians: The Battle of the Labyrinth~author:Rick Riordan~genre:Fantasy~length in pages:378~keywords:god,legend,percy jackson
+bookID:00011~title:Percy Jackson & the Olympians:The Last Olympian~author:Rick Riordan~genre:Fantasy~length in pages:385~keywords:god,legend,percy jackson
+bookID:00012~title:Animal Farm~author:George Orwell~genre:Contemporary fiction~length in pages:161~keywords:animal,farm,humanity
+bookID:00013~title:A Beautiful Mind by Sylvia Nasar~author:Sylvia Nasar~genre:Biography~length in pages:491~keywords:disorder,mit,mind
+bookID:00014~title:Alexander Hamilton by Ron Chernow~author:Ron Chernow~genre:Biography~length in pages:832~keywords:genius,government,war
+bookID:00015~title:Infinity Gauntlet: Aftermath~author:Jim Starlin~genre:Comic~length in pages:242~keywords:superhero,inhuman,galaxy
+bookID:00016~title:The Infinity War~author:Jim Starlin~genre:Comic~length in pages:362~keywords:superhero,inhuman,galaxy
+bookID:00017~title:The Starless Sea~author:Erin Morgenstern~genre:Fantasy~length in pages:525~keywords:journey,fantasy,sea
+bookID:00018~title:Bridgerton~author:Quinn Julia~genre:Romance~length in pages:397~keywords:romantic,drama,england
+bookID:00019~title:The Last Song~author:Sparks Nicholus~genre:Romance~length in pages:461~keywords:romantic,drama,song
+bookID:00020~title:My Brilliant Life~author:Ae-ran Kim~genre:Drama~length in pages:216~keywords:drama,life,english
+bookID:00021~title:Call Me by Your Name~author:Andre Aciman~genre:Drama~length in pages:291~keywords:romantic,drama,life
+bookID:00022~title:IT~author:Stephen King~genre:Horror~length in pages:1388~keywords:horrible,frightened,clown
+bookID:00023~title:Peter and Wendy~author:J.M Barrie~genre:Children's Fiction~length in pages:163~keywords:fantasy,children,peter
+bookID:00024~title:The Little Prince~author:Antoine de Saint-Exupery~genre:Children's Fiction~length in pages:95~keywords:journey,children,prince
+bookID:00025~title:The Negro Motorist Green Book 1940~author:Victor Hugo Green~genre:Guild~length in pages:52~keywords:negro,greenbook,racist
+bookID:00026~title:The Children's Blizzard~author:Melanie Benjamin~genre:Historical~length in pages:368~keywords:child,blizzard,friends
+bookID:00027~title:Jujutsu Kaisen~author:Gege Akutami~genre:Manga~length in pages:194~keywords:anime,fantasy,jujutsu kaisen
+bookID:00028~title:Jujutsu Kaisen vol 4~author:Gege Akutami~genre:Manga~length in pages:178~keywords:anime,fantasy,jujutsu kaisen
+bookID:00029~title:Demon Slayer vol 1~author:Koyoharu Gotouge~genre:Manga~length in pages:169~keywords:anime,fantasy,demon slayer
+bookID:00030~title:Demon Slayer vol 2~author:Koyoharu Gotouge~genre:Manga~length in pages:184~keywords:anime,fantasy,demon slayer
+bookID:00031~title:The Happiest Man on Earth~author:Eddie Jaku~genre:Biography~length in pages:242~keywords:surviral,political,goverment
+bookID:00032~title:Believe IT~author:Jamie Kern Lima~genre:Biography~length in pages:278~keywords:believe,mind,dream
+bookID:00033~title:The Fault in Our Stars~author:John Green~genre:Romance~length in pages:323~keywords:romance,cancer,teen
+bookID:00034~title:Sapiens: A Brief History of Humankind~author:Yuval Noah Harari~genre:Comic~length in pages:369~keywords:human,history,evolution
+bookID:00035~title:Paper Town~author:John Green~genre:Romance~length in pages:340~keywords:romance,school,teen
+bookID:00036~title:Becoming~author:Michelle Obama~genre:Autobiography~length in pages:448~keywords:government,political,millitary
+bookID:00037~title:Dreams From My Father~author:Barack Obama~genre:Memoir~length in pages:442~keywords:story,father,dream
+bookID:00038~title:Everything I Know About Love~author:Dolly Alderton~genre:Biography~length in pages:368~keywords:love,feminist,family
+bookID:00039~title:Educated~author:Tara Westover~genre:Biography~length in pages:400~keywords:educated,love,family
+bookID:00040~title:The Seven Husbands of Evelyn Hugo~author:Taylor Jenkins Reid~genre:Novel~length in pages:400~keywords:journey,love,romance
+bookID:00041~title:We Were Liars~author:E. Lockhart~genre:Literature~length in pages:240~keywords:romance,family,teenagers
+bookID:00042~title:They Both Die at the End~author:Adam Silvera~genre:Novel~length in pages:416~keywords:teenagers,romance,life
+bookID:00043~title:How to Cook That: Crazy Sweet Creations~author:Ann Reardon~genre:Food~length in pages:200~keywords:cooking,desserts,food
+bookID:00044~title:Baking With A Touch of Magic~author:Patricia O'Flaherty~genre:Food~length in pages:122~keywords:cooking,dessert,food
+bookID:00045~title:Range~author:David Epstein~genre:Phychology~length in pages:368~keywords:sport,learning,business
+bookID:00046~title:Wolfpack~author:Abby Wambach~genre:Phychology~length in pages:112~keywords:football,business,leadership
+bookID:00047~title:The Boy Who Made Everyone Laugh~author:Helen Rutter~genre:Children's Fiction~length in pages:360~keywords:funny,family,kids
+bookID:00048~title:There Was an Old Lady Who Swallowed a Fly~author:Pam Adams~genre:Children's Fiction~length in pages:14~keywords:funny,kids,baby
+bookID:00049~title:The Invisible String~author:Patrice Karst~genre:Children's Fiction~length in pages:40~keywords:kids,love,family
+bookID:00050~title:Shadow and Bone~author:Leigh Bardugo~genre:Fiction~length in pages:352~keywords:fantasy,adventure,teenagers
+bookID:00051~title:Shadow and Bone: Siege and Storm~author:Leigh Bardugo~genre:Fiction~length in pages:416~keywords:fantasy,adventure,teenagers
+bookID:00052~title:Shadow and Bone: Ruin and Rising~author:Leigh Bardugo~genre:Fiction~length in pages:384~keywords:fantasy,adventure,teenagers
+bookID:00053~title:Red, White & Royal Blue~author:Casey Mcquiston~genre:Novel~length in pages:432~keywords:romanctic,relationship,sex
+bookID:00054~title:Little Gold~author:Allie Rogers~genre:Fiction~length in pages:288~keywords:family,sex,love
+bookID:00055~title:1984~author:George Orwell~genre:Novel~length in pages:336~keywords:science,dystopian,government
+bookID:00056~title:The Song of Achilles~author:Madeline Miller~genre:Fiction~length in pages:368~keywords:romance,history,war
+bookID:00057~title:Before the Coffee Gets Cold~author:Toshikazu Kawaguchi~genre:Contemporary Fiction~length in pages:224~keywords:fantasy,time,travel
+bookID:00058~title:The Boy, The Mole, The Fox and The Horse~author:Charlie Mackesy~genre:Manga~length in pages:128~keywords:anime,mine,personal development
+bookID:00059~title:Rich Dad Poor Dad~author:Robert T. Kiyosaki~genre:Non-Fiction~length in pages:336~keywords:management,motivation,personal development
+bookID:00060~title:Have You Filled A Bucket Today?~author:Carol McCloud~genre:Tale~length in pages:32~keywords:kids,happy,remark
+bookID:00061~title:Live Beautiful~author:Athena Calderone~genre:Crafts~length in pages:256~keywords:art,interior,design
+bookID:00062~title:The Last Bookshop in London~author:Madeline Martin~genre:Novel~length in pages:320~keywords:novel,war,history
+bookID:00063~title:Billie Eilish~author:Billie Eilish~genre:Biography~length in pages:336~keywords:artist,music,biography
+bookID:00064~title:A Street Cat Named Bob~author:James Bowen~genre:Biography ~length in pages:288~keywords:pet,cat,relationship
+bookID:00065~title:What Cats Want~author:Yuki Hattori~genre:Cartoon~length in pages:160~keywords:cat,kids,pets
+bookID:00066~title:Cybersecurity For Dummies~author:Joseph Steinberg~genre:Technology~length in pages:384~keywords:cyber,computer,technology
+bookID:00067~title:Python Crash Course~author:Eric Matthes~genre:Computer~length in pages:506~keywords:programimg,computer,python
+bookID:00068~title:100 Ways to Improve Your Writing~author:Gary Provost~genre:Education~length in pages:160~keywords:languge,writting,improve
+bookID:00069~title:The College Panda's SAT Math~author:Nielson Phu~genre:Education~length in pages:268~keywords:learning,languaged,guide
+bookID:00070~title:The Midnight Library~author:Matt Haig~genre:Fiction~length in pages:304~keywords:scient,fantasy,life
+bookID:00071~title:High-Impact Tools for Teams~author:Stefano Mastrogiacomo~genre:Business~length in pages:336~keywords:managment,communication,business
+bookID:00072~title:Where the Crawdads Sing~author:Delia Owens~genre:Fiction~length in pages:384~keywords:thriller,secret,painful
+bookID:00073~title:Weirdo~author:Zadie Smith~genre:Children's Fiction~length in pages:32~keywords:kids,pets,tale
+bookID:00074~title:It Ends With Us~author:Colleen Hoover~genre:Novel~length in pages:384~keywords:romance,adult,fiction
+bookID:00075~title:Why We Sleep~author:Matthew Walker~genre:Science~length in pages:368~keywords:scient,learning,research
+bookID:00076~title:Women Don't Owe You Pretty~author:Florence Given~genre:Autography~length in pages:224~keywords:women,feminish,gender
+bookID:00077~title:Lost Connections~author:Johann Hari~genre:Non-Fiction~length in pages:416~keywords:psychology,illness,mentally
+bookID:00078~title:The Concise 48 Laws Of Power~author:Robert Greene~genre:Society~length in pages:208~keywords:mind,funny,sociology
+bookID:00079~title:Conversations with Friends~author:Sally Rooney~genre:Fiction~length in pages:336~keywords:adult,conversation,friendship
+bookID:00080~title:The Flatshare~author:Beth O'Leary~genre:Fiction~length in pages:432~keywords:romance,adult,love
+bookID:00081~title:The House in the Cerulean Sea~author:TJ Klune~genre:Novel~length in pages:332~keywords:childrena,adult,goverment 
+bookID:00082~title:Mezza~author:Ghillie Basan~genre:Food~length in pages:144~keywords:national,food,cuisine
+bookID:00083~title:Born A Crime~author:Trevor Noah~genre:Biography~length in pages:304~keywords:adult,funny,entertainment
+bookID:00084~title:We Should All Be Feminists~author:Chimamanda Ngozi Adichie~genre:Literary~length in pages:64~keywords:women,fair,goverment
+bookID:00085~title:Wonder~author:R. J. Palacio~genre:Stories~length in pages:320~keywords:school,family,stories
+bookID:00086~title:One Of Us Is Lying~author:Karen M. McManus~genre:Thriller~length in pages:368~keywords:thriller,children,stories
+bookID:00087~title:A Man Called Ove~author:Fredrik Backman~genre:Fiction~length in pages:320~keywords:translation,friendship,inspiration
+bookID:00088~title:The Dangers of Smoking in Bed~author:Mariana Enriquez~genre:Thriller~length in pages:187~keywords:thriller,translation,shortstory
+bookID:00089~title:Your Search for Happiness Ends Here~author:Anubha Gupta~genre:Psychology~length in pages:185~keywords:paranting,family,selfhelp
+bookID:00090~title:12 Rules for Life~author:Jordan B. Peterson~genre:Self-Help Book~length in pages:448~keywords:selfhelp,achieving,selfesteem
+bookID:00091~title:I Spy a Dinosaur's Eye Schrd~author:Jean Marzollo~genre:Middle Schools~length in pages:32~keywords:english,language,primary
+bookID:00092~title:Five Love Languages of Children~author:Ross Gary Campbell & Campbell Chapman~genre:Middle Schools~length in pages:224~keywords:primary,childcare,parenting
+bookID:00093~title:Heartstopper Volume One~author:Alice Oseman~genre:Fiction~length in pages:288~keywords:family,sex,romance
+bookID:00094~title:Heartstopper Volume Two~author:Alice Oseman~genre:Fiction~length in pages:320~keywords:family,sex,romance
+bookID:00095~title:Heartstopper Volume Three~author:Alice Oseman~genre:Fiction~length in pages:384~keywords:family,sex,romance
+bookID:00096~title:Heartstopper Volume Four~author:Alice Oseman~genre:Fiction~length in pages:384~keywords:family,sex,romance
+bookID:00097~title:Brown Bear~author:Bill Martin Jr~genre:Children~length in pages:24~keywords:children,bear,story
+bookID:00098~title:Man's Search For Meaning~author:Viktor E Frankl~genre:Holocaust~length in pages:160~keywords:psychology,warworld,holocaust
+bookID:00099~title:Girl With a Pearl Earring~author:Tracy Chevalier~genre:Historoical fiction~length in pages:288~keywords:history,literature,love
+bookID:00100~title:Circe~author:Madeline Miller~genre:Historical fiction~length in pages:352~keywords:history,psychology,clinical
+bookID:00101~title:The Odyssey~author:Homer~genre:Novel~length in pages:560~keywords:poetry,earlymedieval,legend
+bookID:00102~title:Normal People~author:Sally Rooney~genre:Novel~length in pages:288~keywords:romance,adult,love
+bookID:00103~title:The Girl on the Train~author:Paula Hawkins~genre:Triller~length in pages:416~keywords:fiction,crime,horror
+bookID:00104~title:Fast Food Nation~author:Eric Shlosser~genre:Food~length in pages:400~keywords:food,industries,business
+bookID:00105~title:The Proof is in the Plants~author:Simon Hill~genre:Health~length in pages:416~keywords:fitness,vetarian,nutrition
+bookID:00106~title:Brain Body Food~author:Ngaire Hobbins~genre:Health~length in pages:200~keywords:dietetics,nutrition,food
+bookID:00107~title:Letters on Motherhood~author:Giovanna Fletcher~genre:Diaries~length in pages:368~keywords:fanily,journals,memories
+bookID:00108~title:The Diary of a Young Girl~author:Anne Frank~genre:Biography~length in pages:304~keywords:historical,political,journals
+bookID:00109~title:Start With Why~author:Simon Sinek~genre:Management~length in pages:256~keywords:management,achieving,successful
+bookID:00110~title:How To Do The Work~author:Nicole LePera~genre:Psychology~length in pages:320~keywords:mind,practice,thought
+bookID:00111~title:Keto Diet~author:Dr Josh Axe~genre:Health~length in pages:336~keywords:health,dieting,medicine
+bookID:00112~title:Thinking, Fast and Slow~author:Daniel Kahneman~genre:Psychology~length in pages:512~keywords:intelligence,cognition,clinical
+bookID:00113~title:Reputation~author:Lex Croucher~genre:Novel~length in pages:448~keywords:history,romance,comedy
+bookID:00114~title:The Beauty of Living Twice~author:Sharon Stone~genre:Autobiography~length in pages:256~keywords:truestory,artist,films
+bookID:00115~title:Brat~author:Andrew McCarthy~genre:Autobiography~length in pages:240~keywords:artist,entertainment,performers
+bookID:00116~title:How to Do Your Research Project~author:Gary Thomas~genre:Sociology~length in pages:360~keywords:study,learning,research
+bookID:00117~title:Homo Deus~author:Yuval Noah Harari~genre:Sociology~length in pages:528~keywords:science,technology,learning
+bookID:00118~title:Atomic Habits~author:James Clear~genre:Literary~length in pages:320~keywords:psychology,personal,development
+bookID:00119~title:The World According to Bob~author:James Bowen~genre:Biography~length in pages:286~keywords:cats,pets,coping
+bookID:00120~title:The Travelling Cat Chronicles~author:Hiro Arikawa~genre:Fiction~length in pages:256~keywords:cats,travel,translation
+bookID:00121~title:Malibu Rising~author:Taylor Jenkins Reid~genre:Novel~length in pages:384~keywords:musicians,romance,composers
+bookID:00122~title:Just Kids~author:Patti Smith~genre:Biography~length in pages:320~keywords:musicians,entertainment,rockmusic
+bookID:00123~title:The Creature Choir~author:David Walliams~genre:Children's Fiction~length in pages:32~keywords:tale,kids,storybook
+bookID:00124~title:A Promised Land~author:President Barack Obama~genre:Autobiography~length in pages:750~keywords:political,leader,leadership
+bookID:00125~title:C Programming Language~author:Brian Kernighan~genre:Programing~length in pages:288~keywords:computer,programming,language
+bookID:00126~title:Code~author:Charles Petzold~genre:Programming~length in pages:400~keywords:computer,software,programming
+bookID:00127~title:Web Design with HTML, CSS, JavaScript and jQuery Set~author:Jon Duckett~genre:Programming~length in pages:1152~keywords:web design,digital,programming
+bookID:00128~title:This is Going to Hurt~author:Adam Kay~genre:Biography~length in pages:256~keywords:medicine,technology,engineering
+bookID:00129~title:War Doctor~author:David Nott~genre:Autobiography~length in pages:320~keywords:surgery,science,technology
+bookID:00130~title:When Breath Becomes Air~author:Paul Kalanithi~genre:Autobiography~length in pages:256~keywords:illness,surgery,doctor
+bookID:00131~title:Before We Were Yours~author:Lisa Wingate~genre:Romance~length in pages:480~keywords:romantic,historical,fiction
+bookID:00132~title:The Mamba Mentality~author:Kobe Bryant~genre:Biography~length in pages:208~keywords:biography,basketball,sport
+bookID:00133~title:Michael Jordan~author:Roland Lazenby~genre:Biography~length in pages:720~keywords:entertainment,basketball,sport
+bookID:00134~title:Yoga Anatomy~author:Leslie Kaminoff~genre:Sport~length in pages:288~keywords:sport,exercise,workout
+bookID:00135~title:The Sports Gene~author:David Epstein~genre:Sport~length in pages:368~keywords:exercise,workout,training
+bookID:00136~title:The Bitcoin Standard~author:Saifedean Ammous~genre:Economics~length in pages:304~keywords:business,monetary,economics
+bookID:00137~title:Bitcoin Billionaires~author:Ben Mezrich~genre:Economics~length in pages:288~keywords:business,industry,management
+bookID:00138~title:Elon Musk~author:Ashlee Vance~genre:Biography~length in pages:416~keywords:business,investions,industry
+bookID:00139~title:Steve Jobs~author:Walter Isaacson~genre:Biography~length in pages:592~keywords:technology,business,industry
+bookID:00140~title:Alibaba~author:Duncan Clark~genre:Biography~length in pages:304~keywords:business,technology,management
+bookID:00141~title:Shoe Dog~author:Phil Knight~genre:Autobiography~length in pages:400~keywords:sport,business,industry
+bookID:00142~title:Who Was Albert Einstein?~author:Jess Brallier~genre:Non-Fiction~length in pages:112~keywords:science,physic,kids
+bookID:00143~title:What A Waste~author:Jess French~genre:Non-Fiction~length in pages:72~keywords:natural,kids,science
+bookID:00144~title:How Google Works~author:Eric Schmidt & Jonathan Rosenberg~genre:Management~length in pages:320~keywords:mangment,industries,technology
+bookID:00145~title:Beyond Order~author:Jordan B. Peterson~genre:Psychology~length in pages:432~keywords:achieving,political,careers
+bookID:00146~title:The Wim Hof Method~author:Wim Hof~genre:Self-Help Book~length in pages:224~keywords:fitness,development,health
+bookID:00147~title:The Book of Light: Ask and Heaven Will Answer~author:Alexandra Solnado~genre:Self-Help Book~length in pages:416~keywords:health,therapies,motivation
+bookID:00148~title:She's Strong, but She's Tired~author:r.h. Sin~genre:Poetry~length in pages:432~keywords:pain,loneliness,courage
+bookID:00149~title:Inward~author:Yung Pueblo~genre:Poetry~length in pages:240~keywords:healing,love,freedom
+bookID:00150~title:From One Mom to a Mother~author:Jessica Urlichs~genre:Poetry~length in pages:104~keywords:love,parants,family
+bookID:00151~title:September Love~author:Lang Leav~genre:Poetry~length in pages:224~keywords:relationship,hearbreak,love
+bookID:00152~title:The Years of Extermination~author:Saul Friedlander~genre:Holocaust~length in pages:870~keywords:worldwar,social,holocaust
+bookID:00153~title:Game of Thrones 1~author:George R. R. Martin~genre:Novel~length in pages:694~keywords:dragons,kingdom,thrones
+bookID:00154~title:The Complete MAUS~author:Art Spiegelman~genre:Manga~length in pages:296~keywords:truestories,anime,holocaust
+bookID:00155~title:The Colour Monster~author:Anna Llenas~genre:Children's Fiction~length in pages:48~keywords:kinds,funny,children
+bookID:00156~title:To Kill a Kingdom~author:Alexandra Christo~genre:Fantasy~length in pages:368~keywords:romantic,prince,fantasy
+bookID:00157~title:Beyond the Tape~author:Marie Cassidy~genre:Thriller~length in pages:320~keywords:crime,truestory,biographies
+bookID:00158~title:Four Killings~author:Myles Dungan~genre:Thriller~length in pages:336~keywords:truestory,crime,biographies
+bookID:00159~title:Small Pleasures~author:Clare Chambers~genre:Thriller~length in pages:368~keywords:thriller,romance,fiction
+bookID:00160~title:Nothing But Blue Sky~author:Kathleen MacMahon~genre:Contemporary Fiction~length in pages:320~keywords:adult,romance,relationships
+bookID:00161~title:Simply Raymond~author:Raymond Blanc~genre:Food~length in pages:320~keywords:food,celebrity,cooking
+bookID:00162~title:Food Isn't Medicine~author:Dr Joshua Wolrich~genre:Health~length in pages:304~keywords:dietetics,nutrition,food
+bookID:00163~title:Milk and Honey~author:Rupi Kaur~genre:Poetry~length in pages:208~keywords:mind,spirit,body
+bookID:00164~title:Klara and the Sun~author:Kazuo Ishiguro~genre:Novel~length in pages:320~keywords:contemporary,fiction,love
+bookID:00165~title:The Huge Bag of Worries~author:Virginia Ironside~genre:Children's Fiction~length in pages:32~keywords:storybook,funny,kids
+bookID:00166~title:The Koala Who Could~author:Rachel Bright~genre:Children's Fiction~length in pages:32~keywords:kids,animal,selfesteem
+bookID:00167~title:We Must Be Brave~author:Frances Liardet~genre:Historical~length in pages:432~keywords:child,woman,war
+bookID:00168~title:Untamed~author:Glennon Doyle~genre:Memoirs~length in pages:352~keywords:emotionally,selfesteem,love
+bookID:00169~title:The Last Year Of The War~author:Susan Meissner~genre:Historical~length in pages:389~keywords:war,child,friends 
+bookID:00170~title:Women in Science~author:Rachel Ignotofsky~genre:Non-Fiction~length in pages:128~keywords:science,enginerring,women
